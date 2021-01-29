@@ -3,7 +3,6 @@ call plug#begin('~/.vim/plugged')
 
 " Declare the list of plugins.
 Plug 'vim-scripts/indentpython.vim'
-Plug 'Valloric/YouCompleteMe'
 Plug 'vim-syntastic/syntastic'
 Plug 'scrooloose/nerdcommenter'
 Plug 'jiangmiao/auto-pairs'
